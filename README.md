@@ -2,7 +2,17 @@
 
 A style reference for LLMs and writing agents. Read it once before drafting anything that should sound like a human wrote it, work from sections 4 to 6 while revising, and run the checklist in section 11 before handing a draft back.
 
-Contents: 1. What this guide can and can't do · 2. Three principles · 3. Pick the register first · 4. What gives AI text away · 5. Fake-human tells · 6. What to do instead · 7. Don't invent facts · 8. Register presets · 9. Workflow · 10. Before and after · 11. Final checklist
+1. [What this guide can and can't do](#1-what-this-guide-can-and-cant-do)
+2. [Three principles](#2-three-principles)
+3. [Pick the register first](#3-pick-the-register-first)
+4. [What gives AI text away](#4-what-gives-ai-text-away)
+5. [Fake-human tells](#5-fake-human-tells)
+6. [What to do instead](#6-what-to-do-instead)
+7. [Don't invent facts](#7-dont-invent-facts)
+8. [Register presets](#8-register-presets)
+9. [Workflow](#9-workflow)
+10. [Before and after](#10-before-and-after)
+11. [Final checklist](#11-final-checklist)
 
 ## 1. What this guide can and can't do
 
